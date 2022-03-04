@@ -1,0 +1,15 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    height: 10vh;
+}
+
+div#main-container{
+    background-color: rgb(127, 255, 212);
+    height: 80vh;
+}
+
+div.box{
+    
+}
