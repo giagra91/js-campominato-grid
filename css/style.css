@@ -11,7 +11,6 @@ div#main-container{
 
 div#grid{
     width: 500px;
-    /* height: 500px; */
     margin: 0 auto;
     display: flex;
     justify-content: center;
