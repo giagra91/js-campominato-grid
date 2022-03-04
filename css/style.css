@@ -10,6 +10,26 @@ div#main-container{
     height: 80vh;
 }
 
-div.box{
+div#grid{
+    width: 500px;
+    /* height: 500px; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     
+}
+
+div.box{
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-blue{
+    background-color: rgb(100, 149, 237) ;
+    color: white;
 }
